@@ -1,37 +1,25 @@
-import React from "react"
-import Layout from "../components/Layout"
-import infoStyles from "../styles/pages/info.module.scss"
-import useSiteMetaData from "../static_queries/useSiteMetadata"
+import React from 'react';
+import Layout from '../components/Layout';
+import infoStyles from '../styles/pages/info.module.scss';
+import useSiteMetaData from '../static_queries/useSiteMetadata';
+import { Link } from 'gatsby';
 
 export default function Info() {
-  const { infoData } = useSiteMetaData()
-  return (
-    <Layout page="info" bgColor={infoData.background_color}>
-      <section className={infoStyles.info_blurb}>
-        <h2>
-          <div dangerouslySetInnerHTML={{__html: infoData.description}}></div>
-          <div dangerouslySetInnerHTML={{__html: infoData.cta}}></div>
-        </h2>
-        <ul>
-          <li>
-            <p>
-              <a href={`mailto:${infoData.contact.email}`}>Email: {infoData.contact.email}</a>
-            </p>
-          </li>
-          <li>
-            <p>
-              <a href={`https://twitter.com/${infoData.contact.twitter_handle}`}>
-                Twitter: @{infoData.contact.twitter_handle}
-              </a>
-            </p>
-          </li>
-          <li>
-            <p>
-              <a href={`https://github.com/${infoData.contact.github_handle}`}>Github: {infoData.contact.github_handle}</a>
-            </p>
-          </li>
-        </ul>
-      </section>
-    </Layout>
-  )
+	const { infoData } = useSiteMetaData();
+	return (
+		<Layout page='info' bgColor={infoData.background_color}>
+			<section className='containerSmall'>
+				<h2>Who We Are</h2>
+				<p>
+					Purple Orange is a recording studio based out of Grand Rapids, Michigan. We offer full
+					recording, mixing, and mastering services. To support the studio we review the gear we use to
+					make records.
+				</p>
+				<p>Want to hire us to work on your next project?</p>
+				<Link to='/contact' className='button'>
+					Contact us
+				</Link>
+			</section>
+		</Layout>
+	);
 }
