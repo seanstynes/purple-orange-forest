@@ -5,6 +5,6 @@ author: Sean Stynes
 hero_image: "/content/images/supro-thunderbolt-review.jpg"
 
 ---
-Sampel content
+##About Us
 
 ![Purple Orange Studios](/content/images/post-2.jpg)
