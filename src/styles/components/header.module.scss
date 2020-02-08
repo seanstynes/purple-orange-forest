@@ -7,14 +7,24 @@ header {
 	z-index: 4;
 	color: #fff;
 	width: 100%;
+	text-align: center;
+	@media (min-width: 480px) {
+		text-align: left;
+	}
 	nav {
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
+		@media (min-width: 480px) {
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+		}
 	}
 	.logo {
-		display: flex;
-		align-items: center;
+		margin-bottom: 20px;
+		@media (min-width: 480px) {
+			display: flex;
+			align-items: center;
+			margin-bottom: 0;
+		}
 		&:hover {
 			opacity: 0.8;
 		}

@@ -34,7 +34,7 @@
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		padding: 1.5rem 1.25rem;
+		padding: 1.5rem 3.25rem;
 		border-bottom: 1px solid #ebebeb;
 		h2,
 		h3,
@@ -83,8 +83,8 @@
 			}
 		}
 		li {
-			min-height: 250px;
-			height: 33.333vh;
+			min-height: 234px;
+			height: 32.333vh;
 			flex-direction: row;
 		}
 		.list__hero {
@@ -97,7 +97,7 @@
 			}
 		}
 		.list__info {
-			min-width: 70%;
+			min-width: 60%;
 		}
 	}
 }
