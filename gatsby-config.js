@@ -6,15 +6,15 @@ module.exports = {
 	siteMetadata: {
 		title: config.title,
 		description: config.description,
-        repoUrl: config.repository_url,
-        siteUrl: 'https://purpleorangeaudio.com',
+		repoUrl: config.repository_url,
+		siteUrl: 'https://purpleorangeaudio.com',
 		about: config.about,
 		contact: config.contact,
 		primaryColor: config.primary_color,
 		homepage: homepageData
 	},
 	plugins: [
-        'gatsby-plugin-sitemap'
+		'gatsby-plugin-sitemap',
 		{
 			resolve: `gatsby-plugin-google-analytics`,
 			options: {
