@@ -1,5 +1,9 @@
 header {
-	padding: 20px 3.2rem;
+	padding: 0 6px;
+
+	@media (min-width: 480px) {
+		padding: 20px 32px;
+	}
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -16,7 +20,11 @@ header {
 	}
 	nav {
 		a {
-			padding: 0 10px;
+			padding: 0 6px;
+
+			@media (min-width: 480px) {
+				padding: 0 10px;
+			}
 		}
 	}
 	.logo {
