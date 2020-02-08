@@ -7,13 +7,6 @@ export default function useSiteMetadata() {
 				siteMetadata {
 					title
 					description
-					repoUrl
-					infoData {
-						contact {
-							email
-						}
-						description
-					}
 				}
 			}
 		}

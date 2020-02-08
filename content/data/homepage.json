@@ -1,8 +1,7 @@
 {
-  "title": "Title goes here",
-  "description": "Description goes here",
-  "contact": {
-    "email": "seanstynes@gmail.com"
-  },
-  "image": "/content/images/header.jpg"
+	"title": "Title goes here",
+	"description": "Description goes here",
+	"contact": {
+		"email": "seanstynes@gmail.com"
+	}
 }
