@@ -1,5 +1,12 @@
 header {
-	padding: 2.4rem 3.2rem;
+	padding: 20px 3.2rem;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100px;
+	z-index: 4;
+	color: #fff;
+	width: 100%;
 	nav {
 		display: flex;
 		align-items: center;

@@ -13,6 +13,7 @@ module.exports = {
 		homepage: homepageData
 	},
 	plugins: [
+		`gatsby-plugin-catch-links`,
 		{
 			resolve: 'gatsby-plugin-react-svg',
 			options: {

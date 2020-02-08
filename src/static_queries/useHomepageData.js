@@ -24,6 +24,7 @@ export default function useHomepageData() {
 								}
 							}
 						}
+						html
 						excerpt(pruneLength: 200)
 						fields {
 							slug
