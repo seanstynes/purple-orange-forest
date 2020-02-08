@@ -2,7 +2,7 @@
 date: '2020-02-01T22:43:31.000+00:00'
 title: About Us
 heading: About Us
-subheading: 
+subheading: Learn more about the studio
 hero_image: "/content/images/supro-thunderbolt-review.jpg"
 
 ---

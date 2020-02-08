@@ -23,7 +23,7 @@ export default function IndexPage(props) {
 					</figure>
 					<div className='pageBody' dangerouslySetInnerHTML={{ __html: html }}></div>
 
-					<section className='container'>
+					<section className='blogContainer'>
 						<h1 className='centerHeading'>The Latest</h1>
 						<BlogList />
 					</section>
