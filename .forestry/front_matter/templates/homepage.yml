@@ -2,14 +2,14 @@
 label: Homepage
 hide_body: true
 fields:
-  - type: text
-    name: title
-    label: title
-  - type: text
-    name: description
-    label: description
-  - name: image
-    type: file
-    label: Image
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- name: image
+  type: file
+  label: Image
 pages:
-  - content/data/homepage.json
+- content/data/homepage.json
