@@ -21,7 +21,7 @@ The Supro has a uniquely simple approach. It has very few controls. Just one ton
 
 The wattage control allows you switch between 60 watts and 30 watts. Flipping to 30 watts will allow the amp to break up sooner. This is really nice if you like a slightly dirty tube driven sound but don't want to have to crank the amp to ear screechingly loud volumes. The 60 watt setting is nice if you want mroe headroom or want to get all your distortion from pedals.
 
-![](/content/images/supro-3.jpg)
+![](/content/images/supro-thunderbolt-review.jpg)
 
 The one knob tone control is brilliantly simple and has some real sweet spots. As you turn the knob you'll get varied eq curves that are interesting and seem to just really work without all the fussing around. This saves time and is more effective in a live setting.
 
@@ -43,4 +43,4 @@ The one knob tone control is brilliantly simple and has some real sweet spots. A
 
 All around this amp has great headroom with the ability to breakup like a tube amp should and comes at a great price for the quality.
 
-[View on Amazon](http://amazon.com)
+[View on Amazon](https://www.amazon.com/Supro-S6420-Thunderbolt-Combo-Guitar/dp/B00N9GR230/ref=cm_cr_arp_d_product_top?ie=UTF8)
