@@ -7,9 +7,9 @@ hero_image: "/content/images/supro-thunderbolt-review.jpg"
 
 ---
 
-Purple Orange Studios is a recording studio based out of Grand Rapids, MI. We offer full recording, mixing, editing, and mastering services.
+Purple Orange Audio is a recording studio based out of Grand Rapids, MI. We offer full recording, mixing, editing, and mastering services.
 
-![Purple Orange Studios](/content/images/post-2.jpg)
+![Purple Orange Audio](/content/images/post-2.jpg)
 
 ###Gear We Use
 
@@ -28,7 +28,7 @@ Microphones
 * SM58
 
 Instruments
-* Drums - Gretsch Catalina + Session
+* Drums - Gretsch Catalina + Dream Cymbals + Sabian
 * Guitars - Gibson ES 339, Fender American Strat, Martin Acoustic
 * Bass - Fender Precision
 * Misc - Tambourines, Shakers, Mandolin, Viola, Electric Violin...etc 

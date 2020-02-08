@@ -8,7 +8,7 @@ export default function Header(props) {
 		<header className={headerStyles.header}>
 			<Link to='/' className={headerStyles.logo}>
 				<Logo></Logo>
-				<h1>{props.title}</h1>
+				<h1>Purple Orange Audio</h1>
 			</Link>
 			<nav className={headerStyles.header__nav} role='navigation' aria-label='main navigation'>
 				<Link to='/listen'>Listen</Link>
