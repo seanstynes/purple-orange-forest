@@ -8,3 +8,8 @@ fields:
 - type: text
   name: description
   label: description
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
