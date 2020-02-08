@@ -13,6 +13,12 @@ module.exports = {
 		homepage: homepageData
 	},
 	plugins: [
+		{
+			resolve: `gatsby-plugin-google-analytics`,
+			options: {
+				trackingId: 'UA-158090763-1'
+			}
+		},
 		`gatsby-plugin-catch-links`,
 		{
 			resolve: 'gatsby-plugin-react-svg',
