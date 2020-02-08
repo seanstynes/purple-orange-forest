@@ -23,7 +23,9 @@ export default function Contact(props) {
 
 					<section className='pageBody'>
 						<h2>Say Hello</h2>
-						<form name='contact' method='POST' data-netlify='true'>
+						<form name='contact' method='post' data-netlify='true' data-netlify-honeypot='bot-field'>
+							<input type='hidden' name='bot-field' />
+							<input type='hidden' name='form-name' value='contact' />
 							<input type='text' name='name' placeholder='Name' />
 							<input type='email' name='userEmail' placeholder='Email' />
 							<textarea placeholder='Message' />
