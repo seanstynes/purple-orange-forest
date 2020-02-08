@@ -28,7 +28,7 @@ export default function Contact(props) {
 							<input type='hidden' name='form-name' value='contact' />
 							<input type='text' name='name' placeholder='Name' />
 							<input type='text' name='userEmail' placeholder='Email' />
-							<textarea placeholder='Message' />
+							<textarea name='message' placeholder='Message' />
 							<input type='submit' className='button' value='Send' />
 						</form>
 					</section>
