@@ -1,11 +1,12 @@
 {
-  "title": "<p>Recording, Mixing, and Mastering.</p>",
-  "description": "<p>Recording, Mixing, and Mastering.</p>",
+  "title": "Title goes here",
+  "description": "Description goes here",
   "cta": "",
   "contact": {
     "email": "seanstynes@gmail.com",
     "twitter_handle": "",
     "github_handle": ""
   },
-  "background_color": ""
+  "background_color": "",
+  "image": "/content/images/header.jpg"
 }
