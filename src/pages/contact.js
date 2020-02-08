@@ -27,7 +27,7 @@ export default function Contact(props) {
 							<input type='hidden' name='bot-field' />
 							<input type='hidden' name='form-name' value='contact' />
 							<input type='text' name='name' placeholder='Name' />
-							<input type='email' name='userEmail' placeholder='Email' />
+							<input type='text' name='userEmail' placeholder='Email' />
 							<textarea placeholder='Message' />
 							<input type='submit' className='button' value='Send' />
 						</form>
