@@ -11,4 +11,4 @@ Purple Orange is a recording studio based out of Grand Rapids, Michigan. We offe
 
 Want to work with us on your next project?
 
-[Contact Us](/about-us)
+[Contact Us](/contact)

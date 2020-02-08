@@ -260,3 +260,30 @@ p {
 		display: block;
 	}
 }
+
+input[type='text'],
+textarea,
+input[type='email'] {
+	display: block;
+	width: 100%;
+	margin-bottom: 20px;
+	padding: 20px;
+	border: 1px solid #ddd;
+	color: #000;
+	font-family: 'Raleway', sans-serif;
+}
+
+.button,
+input[type='submit'] {
+	padding: 1.8rem 2.4rem;
+	border: 1px solid #000;
+	color: #000;
+	text-decoration: none;
+	display: inline-block;
+	transition: all 0.4s ease;
+	appearance: none;
+	&:hover,
+	&:focus {
+		background: rgba(#000, 0.1);
+	}
+}
