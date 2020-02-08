@@ -1,12 +1,8 @@
 {
-  "title": "Title goes here",
-  "description": "Description goes here",
-  "cta": "",
-  "contact": {
-    "email": "seanstynes@gmail.com",
-    "twitter_handle": "",
-    "github_handle": ""
-  },
-  "background_color": "",
-  "image": "/content/images/header.jpg"
+	"title": "Title goes here",
+	"description": "Description goes here",
+	"contact": {
+		"email": "seanstynes@gmail.com"
+	},
+	"image": "/content/images/header.jpg"
 }
