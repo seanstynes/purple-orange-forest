@@ -7,7 +7,7 @@ hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 ---
 
 
-#Finally, an afordable high-end sounding 15 inch tube amp
+#Finally, an afordable high-end sounding tube amp with a 15 inch speaker
 
 I spent a good half a year searching for an amp to replace my Fender Hot Rod Deluxe. The Hot Rod was a great amp but it had seen better days. By the end it was switching itself between the drive and clean channels by it's own will. Some sort of late stage amp dementia. I loved that amp but it was time to find something new.
 
@@ -27,19 +27,20 @@ The one knob tone control is brilliantly simple and has some real sweet spots. A
 
 All around this amp has great headroom with the ability to breakup like a tube amp should and comes at a great price for the quality.
 
-View on Amazon
-Features
-Circuit Type: All-tube Supro Circuit
-Wattage: 35 Watts – Class A, 60 Watts Class A/B
-Channels: “Normal” and “Hot” inputs
-Tremolo: None
-Reverb: None
-Assembled in New York, USA
-Preamp Tubes: 2x 12AX7
-Power Tubes: 2x 5881/6L6
-Speakers: 1 x 15″ Supro TB15
-Cabinet Dimensions (in.) 23 5/8” x 19” x 10 1/2”
-Cabinet Dimensions (cm.) 60 x 41 x 27 cm
-Weight (lbs) 50 lbs
-Weight (kg) 23 kg
-Tolex Black Rhino Hide tolex
+[View on Amazon](http://amazon.com)
+
+### Features
+* Circuit Type: All-tube Supro Circuit
+* Wattage: 35 Watts – Class A, 60 Watts Class A/B
+* Channels: “Normal” and “Hot” inputs
+* Tremolo: None
+* Reverb: None
+* Assembled in New York, USA
+* Preamp Tubes: 2x 12AX7
+* Power Tubes: 2x 5881/6L6
+* Speakers: 1 x 15″ Supro TB15
+* Cabinet Dimensions (in.) 23 5/8” x 19” x 10 1/2”
+* Cabinet Dimensions (cm.) 60 x 41 x 27 cm
+* Weight (lbs) 50 lbs
+* Weight (kg) 23 kg
+* Tolex Black Rhino Hide tolex
