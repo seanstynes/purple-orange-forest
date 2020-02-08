@@ -6,10 +6,6 @@ subheading: Hear music from artists we've worked with
 hero_image: "/content/images/header.jpg"
 
 ---
-#Gorgeous Oranges
-Are a band
-
-#Dyno Gee
-Is a band
+Coming soon...
 
 
