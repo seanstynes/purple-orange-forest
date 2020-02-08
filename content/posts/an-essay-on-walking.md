@@ -1,4 +1,5 @@
 ---
+
 date: 2019-07-31T22:43:31Z
 title: A different post
 author: Robert Thoreau
