@@ -41,7 +41,7 @@ export default function Blog(props) {
           dangerouslySetInnerHTML={{ __html: data.html }}
         ></div>
         <div className={blogTemplateStyles.blog__footer}>
-          <h2>Written By: {data.frontmatter.author}</h2>
+          <h2>Next Post</h2>
           <Link
             to={`blog/${nextSlug}`}
             className={blogTemplateStyles.footer__next}
