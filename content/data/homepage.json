@@ -1,8 +1,8 @@
 {
-  "title": "Title goes here",
-  "description": "Description goes here",
-  "contact": {
-    "email": "seanstynes@gmail.com"
-  },
-  "image": "/content/images/header.jpg"
+	"title": "Purple Orange Studios",
+	"description": "Purple Orange Studios is a recording studio based out of Grand Rapids, MI",
+	"contact": {
+		"email": "seanstynes@gmail.com"
+	},
+	"image": "/content/images/header.jpg"
 }
