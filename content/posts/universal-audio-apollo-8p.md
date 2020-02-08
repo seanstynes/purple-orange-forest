@@ -23,3 +23,5 @@ The price tag is hefty for this interface but the quality of the conversion, pre
 * Price tag of the interface
 * Price of buying UAD plugins once you become engrossed in their universe
 * Lack of some physical controls
+
+![](/content/images/universal-audio-apollo-8p.jpg)
