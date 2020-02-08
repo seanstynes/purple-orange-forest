@@ -6,7 +6,7 @@ hero_image: "/content/images/sp-compressor.jpg"
 ---
 
 
-#A great mini pedal Compressor capable for parallel compression
+#A great mini pedal compressor capable of awesome parallel compression
 
 The SP Compressor is one of my favorite pedal compressors. It comes in a smaller mini pedal form factor, which saves precious room on your pedal board. Plus it has a great sound and allows you to blend the compressed signal with the dry uncompressed signal. That way you can dial in some groove and tone but ease it back a bit to keep dynamics and transients. 
 
