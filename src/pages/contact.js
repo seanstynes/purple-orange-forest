@@ -25,8 +25,8 @@ export default function Contact(props) {
 						<h2>Say Hello</h2>
 						<form name='contact' method='POST' data-netlify='true'>
 							<input type='text' name='name' placeholder='Name' />
-							<input type='email' name='email' placeholder='Email' />
-							<textarea name='subject' placeholder='Message' />
+							<input type='email' name='userEmail' placeholder='Email' />
+							<textarea placeholder='Message' />
 							<input type='submit' className='button' value='Send' />
 						</form>
 					</section>
