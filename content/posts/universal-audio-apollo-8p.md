@@ -25,3 +25,5 @@ The price tag is hefty for this interface but the quality of the conversion, pre
 * Lack of some physical controls
 
 ![](/content/images/universal-audio-apollo-8p.jpg)
+
+[View on Amazon](https://www.amazon.com/Universal-Audio-Apollo-Thunderbolt-Interface/dp/B07H1C161Q/ref=sr_1_2?keywords=apollo+8p&qid=1581199822&sr=8-2)

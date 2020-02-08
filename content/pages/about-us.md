@@ -21,9 +21,10 @@ Outboard Gear
 * Strymon Timeline + Flint
 
 Microphones
-* Rode K2 Large Diagraphm Condenser
+* Rode K2 LD Condensers
 * SM7b
 * AKG D112
+* Rode NT1
 * SM57
 * SM58
 
