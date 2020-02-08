@@ -22,9 +22,9 @@ export default function IndexPage(props) {
 						<Img fluid={data.hero_image.childImageSharp.fluid} alt={data.title} />
 					</figure>
 
-					{/* <section className='container'> */}
-					<BlogList />
-					{/* </section> */}
+					<section className='container'>
+						<BlogList />
+					</section>
 				</div>
 			</Layout>
 		);
