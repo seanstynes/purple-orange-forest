@@ -10,16 +10,18 @@ header {
 	text-align: center;
 	@media (min-width: 480px) {
 		text-align: left;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
 	}
 	nav {
-		@media (min-width: 480px) {
-			display: flex;
-			align-items: center;
-			justify-content: space-between;
+		a {
+			padding: 0 10px;
 		}
 	}
 	.logo {
 		margin-bottom: 20px;
+		display: block;
 		@media (min-width: 480px) {
 			display: flex;
 			align-items: center;

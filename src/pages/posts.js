@@ -5,7 +5,7 @@ import Img from 'gatsby-image';
 import { graphql, useStaticQuery } from 'gatsby';
 
 export default function IndexPage(props) {
-	const queryData = useHomepageData();
+	const queryData = usePostsData();
 	if (queryData[0]) {
 		const data = queryData[0].node.frontmatter;
 		const html = queryData[0].node.html;
@@ -21,12 +21,10 @@ export default function IndexPage(props) {
 						</div>
 						<Img fluid={data.hero_image.childImageSharp.fluid} alt={data.title} />
 					</figure>
-					<div className='pageBody' dangerouslySetInnerHTML={{ __html: html }}></div>
 
-					<section className='container'>
-						<h1 className='centerHeading'>The Latest</h1>
-						<BlogList />
-					</section>
+					{/* <section className='container'> */}
+					<BlogList />
+					{/* </section> */}
 				</div>
 			</Layout>
 		);
@@ -35,12 +33,12 @@ export default function IndexPage(props) {
 	}
 }
 
-function useHomepageData() {
+function usePostsData() {
 	const data = useStaticQuery(graphql`
-		query getHomepageData {
+		query getPostsData {
 			allMarkdownRemark(
 				sort: { order: DESC, fields: frontmatter___date }
-				filter: { frontmatter: { title: { in: ["Homepage"] } } }
+				filter: { frontmatter: { title: { in: ["Posts"] } } }
 			) {
 				edges {
 					node {

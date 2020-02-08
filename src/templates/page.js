@@ -8,14 +8,16 @@ export default function Page(props) {
 	const html = props.data.markdownRemark.html;
 	return (
 		<Layout>
-			<figure className='hero'>
-				<div className='inner container'>
-					<h1>{data.heading}</h1>
-					<p>{data.subheading}</p>
-				</div>
-				<Img fluid={data.hero_image.childImageSharp.fluid} alt={data.title} />
-			</figure>
-			<div className='pageBody' dangerouslySetInnerHTML={{ __html: html }}></div>
+			<div className='page'>
+				<figure className='hero'>
+					<div className='inner container'>
+						<h1>{data.heading}</h1>
+						<p>{data.subheading}</p>
+					</div>
+					<Img fluid={data.hero_image.childImageSharp.fluid} alt={data.title} />
+				</figure>
+				<div className='pageBody' dangerouslySetInnerHTML={{ __html: html }}></div>
+			</div>
 		</Layout>
 	);
 }

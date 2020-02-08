@@ -45,7 +45,7 @@ module.exports.createPages = async ({ graphql, actions }) => {
 
 	//create new pages with unique slug
 	response.data.allMarkdownRemark.edges.forEach(edge => {
-		let directory = '/blog/' + edge.node.fields.slug;
+		let directory = '/posts/' + edge.node.fields.slug;
 		let template = './src/templates/blog.js';
 		if (edge.node.fields.type == 'page') {
 			template = './src/templates/page.js';
