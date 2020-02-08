@@ -8,8 +8,6 @@ export default function IndexPage() {
 
 	return (
 		<Layout page='home' bgColor='inherit'>
-			{title}
-
 			<section>
 				<BlogList />
 			</section>

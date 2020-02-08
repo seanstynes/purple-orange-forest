@@ -8,7 +8,7 @@ export default function BlogList() {
 	const blogData = useBlogData();
 	function renderBlogData() {
 		return (
-			<div className='container'>
+			<div>
 				{blogData
 					.filter(blog => blog.node.frontmatter.title !== '')
 					.map(blog => {
