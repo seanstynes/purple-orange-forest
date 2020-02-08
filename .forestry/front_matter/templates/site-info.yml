@@ -1,5 +1,5 @@
 ---
-label: Site Config
+label: Site Info
 hide_body: true
 fields:
 - type: text
@@ -8,8 +8,5 @@ fields:
 - type: text
   name: description
   label: description
-- type: text
-  name: repository_url
-  label: repository_url
 pages:
 - config.json
