@@ -1,4 +1,18 @@
 ---
 label: Block - 50/50 Media and Text
 hide_body: false
-fields: []
+fields:
+- name: example_text
+  type: text
+  config:
+    required: false
+  label: Example Text
+- name: date_field
+  type: datetime
+  label: Date Field
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
