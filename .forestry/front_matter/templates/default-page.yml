@@ -2,29 +2,36 @@
 label: Page
 hide_body: false
 fields:
-  - type: text
-    name: title
-    label: title
-  - name: date
-    type: datetime
-    label: date
-    description: Date post was created
-    config:
-      required: false
-      date_format:
-      time_format:
-      display_utc: false
-    default: now
-  - type: text
-    name: heading
-    label: heading
-  - type: text
-    name: subheading
-    label: subheading
-  - name: hero_image
-    type: file
-    config:
-      maxSize: '10'
-    label: hero image
-    description: Enter hero image for blog post here
-    default: '/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg'
+- type: text
+  name: title
+  label: title
+- name: date
+  type: datetime
+  label: date
+  description: Date post was created
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: subheading
+  label: subheading
+- name: hero_image
+  type: file
+  config:
+    maxSize: '10'
+  label: hero image
+  description: Enter hero image for blog post here
+  default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types: []
+  config:
+    min: 
+    max: 
