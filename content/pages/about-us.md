@@ -14,7 +14,7 @@ Purple Orange Audio is a recording studio based out of Grand Rapids, MI. We offe
 ###Gear We Use
 
 Outboard Gear
-* Universal Audio Apollo 8p
+* [Universal Audio Apollo 8p](https://amzn.to/3bGi6ku)
 * Mackie Onyx 1620i
 * Fet Head
 * Zoom R16 (Field Recording)

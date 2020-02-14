@@ -2,13 +2,15 @@ import React from 'react';
 import Layout from '../components/Layout';
 import { graphql, Link } from 'gatsby';
 import Img from 'gatsby-image';
+import classes from 'classnames';
 
 export default function Page(props) {
 	const data = props.data.markdownRemark.frontmatter;
 	const html = props.data.markdownRemark.html;
+	const slug = props.data.markdownRemark.fields.slug;
 	return (
 		<Layout>
-			<div className='page'>
+			<div className={classes('page', [slug])}>
 				<figure className='hero'>
 					<div className='inner container'>
 						<h1>{data.heading}</h1>

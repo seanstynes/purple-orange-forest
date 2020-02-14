@@ -16,6 +16,7 @@
     "forestry-preview": "gatsby develop -p 8080 -H 0.0.0.0"
   },
   "dependencies": {
+    "classnames": "^2.2.6",
     "gatsby": "^2.13.9",
     "gatsby-image": "^2.2.8",
     "gatsby-plugin-catch-links": "^2.1.25",

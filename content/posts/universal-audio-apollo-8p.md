@@ -26,4 +26,4 @@ The price tag is hefty for this interface but the quality of the conversion, pre
 
 ![Apollo 8p Audio Interface](/content/images/universal-audio-apollo-8p.jpg)
 
-[View on Amazon](https://www.amazon.com/Universal-Audio-Apollo-Thunderbolt-Interface/dp/B07H1C161Q/ref=sr_1_2?keywords=apollo+8p&qid=1581199822&sr=8-2)
+[View on Amazon](https://amzn.to/3bGi6ku)

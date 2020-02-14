@@ -138,6 +138,12 @@ p {
 		z-index: 3;
 		color: #fff;
 		text-align: center;
+		.gatsby-image-wrapper {
+			position: relative !important;
+			img {
+				object-fit: none;
+			}
+		}
 		p {
 			color: #fff;
 		}
@@ -160,7 +166,24 @@ p {
 		}
 	}
 }
-
+.page:not(.about-us) {
+	.pagebody {
+		a {
+			margin-bottom: 1.5rem;
+			padding: 1.4rem 2.4rem;
+			border: 1px solid #000;
+			color: #000;
+			text-decoration: none;
+			display: inline-block;
+			transition: all 0.4s ease;
+			appearance: none;
+			&:hover,
+			&:focus {
+				background: rgba(#000, 0.1);
+			}
+		}
+	}
+}
 .pageBody {
 	width: 100%;
 	padding: 0 1.25rem;
@@ -173,20 +196,7 @@ p {
 		margin-top: 60px;
 		margin-bottom: 120px;
 	}
-	a {
-		margin-bottom: 1.5rem;
-		padding: 1.4rem 2.4rem;
-		border: 1px solid #000;
-		color: #000;
-		text-decoration: none;
-		display: inline-block;
-		transition: all 0.4s ease;
-		appearance: none;
-		&:hover,
-		&:focus {
-			background: rgba(#000, 0.1);
-		}
-	}
+
 	:last-child {
 		margin-bottom: 0;
 	}
