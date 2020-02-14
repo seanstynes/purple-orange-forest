@@ -13,7 +13,7 @@ export default function IndexPage(props) {
 		console.log(data);
 		return (
 			<Layout page='home' bgColor='inherit'>
-				<div className='home'>
+				<div className='page home'>
 					<figure className='hero'>
 						<div className='inner container'>
 							<h1>{data.heading}</h1>
